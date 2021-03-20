@@ -30,7 +30,7 @@ Here is the result of coverage test :
     ravivendra:gosend-grid ravivendra$ go test -cover
     FAIL 
     coverage: 90.5% of statements
-    FAIL    golek.pahala/gosend-grid        1.334s
+    FAIL    github.com/ravivendra/gosend-grid        1.334s
 
 ## License
 ***MIT License***
