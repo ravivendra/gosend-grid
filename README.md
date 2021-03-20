@@ -28,9 +28,9 @@ Currently, these codes have been completed with unit test, just run command belo
 Here is the result of coverage test :
 
     ravivendra:gosend-grid ravivendra$ go test -cover
-    FAIL 
+    PASS
     coverage: 90.5% of statements
-    FAIL    github.com/ravivendra/gosend-grid        1.334s
+    ok  	github.com/ravivendra/gosend-grid	1.436s
 
 ## License
 ***MIT License***
